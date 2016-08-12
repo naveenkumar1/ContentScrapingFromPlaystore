@@ -1,0 +1,9 @@
+The following are the prerequisites for running the script
+The script is written basically to fetch comments from Playstore and it works for any app and for any locale
+
+Software Needed:-
+Python 2.7.9 and above (THe script supports python 2 only)
+Selenium 2 latest version(Till final  version 2.53.6)
+Firefox Browser(Upto version 47)
+
+Post FF47 the Browser will be using geckodriver  and it requires python 3
