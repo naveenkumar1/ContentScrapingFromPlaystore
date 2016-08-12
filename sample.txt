@@ -1,0 +1,10 @@
+se.lf.mobile.android&hl=sv
+com.infonow.bofa&hl=en
+myer.com.android
+com.jcp
+com.citiuat
+com.tinyco.village
+com.allianz.oneweb.mobile.android.apps.investorRelations
+com.allianzworldwidecare.mobile
+com.wf.wellsfargomobile
+com.whatsapp

@@ -1,0 +1,1926 @@
+ Faulty Fingerprint Login I've had this app for a while. However in the past few weeks, the fingerprint login feature has been wonky on my S6 Edge+.  It shows up initially, accepts my fingerprint and then still requires a password.  Other than this small glitch,  the app is perfect.  Full Review  {
+  "result": {
+    "confidence": "99.4861", 
+    "sentiment": "Positive"
+  }
+}
+ BofA is built for life! Great bank, great app! Paperless, mobile banking at my fingertips 24/7! Awesome customer service, (if you ever need them) Peace of mind knowing  my cash is protected, & the ease of depositing check from my phone. Can't beat that.  Full Review  {
+  "result": {
+    "confidence": "80.8460", 
+    "sentiment": "Positive"
+  }
+}
+ I hate bank of America Modern crooks worst bank in existence. Can't wait to get a new account someplace else  Full Review  {
+  "result": {
+    "confidence": "66.8585", 
+    "sentiment": "Positive"
+  }
+}
+  App needs strong connection,  Was crashing for me and support said to  turn on only wifi and it worked fine as I had a strong wifi and weak cellular signal.  I believe it tries cellular first so if you have spotty coverage it will crash when transmitting large chunks....like check photos.  Also a fresh reboot helps. Anyway, works fine on my wifi only while in airplane mode!  Full Review  {
+  "result": {
+    "confidence": "97.9725", 
+    "sentiment": "Positive"
+  }
+}
+ Finger print scan What happen to the fingerprint scan, Gone with update. option not available on lgv10, this is not good. It was the best thing about this app. easy access, put it back  Full Review  {
+  "result": {
+    "confidence": "96.4948", 
+    "sentiment": "Negative"
+  }
+}
+ Great app Great app that continues to evolve with each update. I remember when the app first launched so many years ago and it was UGLY :) IF I could make one request, it'd be great to add support for the fingerprint API to create a faster sign-in experience. Fingerprint readers will be the norm with the 2016 flagships and with current Nexus devices having them, I think it's a must.  Full Review  {
+  "result": {
+    "confidence": "99.9993", 
+    "sentiment": "Positive"
+  }
+}
+ Mostly good But I miss finger print sign in moving to my nexus 6p. It's been months now, is it really so hard to implement a built-in api? Other than that, its good and useful. 5 stars when I get finger print back. Edit: Your app help section on fingerprint signin currently states fingerprint support on Android and ios. This should be changed to Samsung Galaxy devices instead of Android until you support the official Android api.  Otherwise it's misleading.  Full Review  {
+  "result": {
+    "confidence": "99.3293", 
+    "sentiment": "Negative"
+  }
+}
+  -1 for inability to display recent transactions without password (hello Citi Snapshot) and -1 for push notifications. I want to be notified when my credit card gets charged, not when charge gets posted to my account (hello Citi again).  Full Review  {
+  "result": {
+    "confidence": "70.6463", 
+    "sentiment": "Negative"
+  }
+}
+ Was great The app was awesome until the last week fingerprint scanning no longer logs me in. I'll swipe and it'll just sit there.  Tried force quitting, restarting phone etc.  Not sure what went wrong.  Latest android OS on a galaxy note 4 :(  Full Review  {
+  "result": {
+    "confidence": "94.4710", 
+    "sentiment": "Negative"
+  }
+}
+ Being able to bank online, this app makes it so easy to do my banking from my phone. I am very Happy with this app. Instead of going into the branch and waiting in line, getting frustrated. I can just easily & quickly log into the app and do what I need to with out any issues. *****  Full Review  {
+  "result": {
+    "confidence": "73.8949", 
+    "sentiment": "Positive"
+  }
+}
+ Not the first time a mandatory update has disallowed me to use this app at a time really needed. I can't believe they wouldn't allow the option to postpone this update. It's not like I'm always home, and at this time the download speed kept me from using the convenience of this app. Useless.  Full Review  {
+  "result": {
+    "confidence": "99.0516", 
+    "sentiment": "Negative"
+  }
+}
+ Fixed the prob Fixed the problem got contacted right away - I can't use the app right now because when I do it asks me to update and even though I do it asks again each time so far.  Full Review  {
+  "result": {
+    "confidence": "94.1505", 
+    "sentiment": "Negative"
+  }
+}
+ Great app easy to use Allows you to do a lot more things then the old app. From payment information to depositing checks on the mobile banking. Transfers and many more things that you can do. Thanks Bank Of America.  Full Review  {
+  "result": {
+    "confidence": "99.7455", 
+    "sentiment": "Positive"
+  }
+}
+ Falls short of expectations The fingerprint access is a great feature, but i would like to have a widget i can view my balance at all times because once your done anx you back out if you dont log off it will reopen 5 minutes later to announce it has logged you out and you need to relogin well thats dumb because then once i close it will just do it again sl either stay open and allow me access to info or stop interupting me sometimes im doing something important and relogin to access my account just interupted a payement  Full Review  {
+  "result": {
+    "confidence": "92.0725", 
+    "sentiment": "Positive"
+  }
+}
+ Galaxy S6 Edge Fingerprint sign in stopped working after the latest update. The prompt pops up, but goes away once I put my finger on it and I have to sign in manually. I know...I know...lazy, huh?   It really was convenient, though.  Full Review  {
+  "result": {
+    "confidence": "60.8198", 
+    "sentiment": "Neutral"
+  }
+}
+ Signs out Right after I take a picture of a check to be deposited never like this before please fix lg stylus... 2.4.16 after update, same problem  Full Review  {
+  "result": {
+    "confidence": "90.6089", 
+    "sentiment": "Negative"
+  }
+}
+ Needs to be updated The app works for basic stuff. With all the new things added to apps I think there needs to be features added. Taking pictures of checks for deposits would be a start.  Full Review  {
+  "result": {
+    "confidence": "81.7058", 
+    "sentiment": "Negative"
+  }
+}
+ Update again??? Frequent updates are a pain. All features work for me just fine. I don't see the need for so many updates. The app only halts my day for updates. Ugh! Other than that, it's great.  Full Review  {
+  "result": {
+    "confidence": "87.9027", 
+    "sentiment": "Negative"
+  }
+}
+  My only complaint is that it doesn't show the bill pay history,  so for recurring payments I can't see what I paid before,  which is annoying. Besides that,  offers all the functionality of the website plus fingerprint signin, which is nice (though it doesn't always work).  Update: just after posting this I used the app and noticed it now shows the previous payment amount in the Bill Pay section. A big improvement--upgrading to 5 stars.  Full Review  {
+  "result": {
+    "confidence": "99.9543", 
+    "sentiment": "Positive"
+  }
+}
+ It does the job, Needs a Quick View Feature! I just really wish there was a Quick View so i don't have to log in every freaking time I just wanna see my account balance. All of the other Banking Apps that I use (Chase, Discover, Barclays) all have this feature and they've spoiled me  Full Review  {
+  "result": {
+    "confidence": "96.0715", 
+    "sentiment": "Negative"
+  }
+}
+ Camera on Samsung Note 5 When performing a check deposit, the camera allows the front side of the check to be photographed with no issues, but when doing the same to the backside, it continually says that there is not enough light. It allows me to manually take the photo and continue to be able to make the deposit.  It is a little annoying. Is there a fix for this?  Full Review  {
+  "result": {
+    "confidence": "93.7910", 
+    "sentiment": "Positive"
+  }
+}
+ Annoying Every time I use this and then am done with the app I go about my business to other apps such as Facebook... This app always comes back up no matter what and saying it logged me out and messes up what I'm doing  Full Review  {
+  "result": {
+    "confidence": "66.7795", 
+    "sentiment": "Negative"
+  }
+}
+ Glitches Every Time Horrible!  Every single time I open this ap, or navigate to a different page within it, it glitches and an error message comes up.  I've tried updating it...uninstalling and reinstalling it etc.  Nothing works!  Very frustrating!  I'm glad it works well for some people, but for me it's a no!  Full Review  {
+  "result": {
+    "confidence": "79.2637", 
+    "sentiment": "Positive"
+  }
+}
+ Banking App of choice! Absolutely no problems! Nexus 1...App has got much better over the last 6 years. Small issues depositing checks...Lighting has to be absolutely perfect compared to when I use the iOS version. Still waiting on fingerprint support getting tired of always logging in with password. App is very good just lagging behind it's iOS counterpart! Using Nexus 6p.  Full Review  {
+  "result": {
+    "confidence": "77.3540", 
+    "sentiment": "Negative"
+  }
+}
+  Banked here for almost 30 years. Gets worse every year. They cancelled their message center, now NO ONLINE CORRESPONDENCE PERMITTED. Call center a nightmare. Ignorant reps dominate. Of course they're paid nothing. Time to look elsewhere. Watch out for fees! Check your statements carefully. No sense of customer service here; customers are adversaries. The app is but a symptom of policy which avoids human contact with bank employees at all costs with good reason. Chat sessions are little better as these reps are working multiple chat sessions simultaneously while the customer WAITS AND WAITS as on BRIEF HOLD telephonically. And we bailed this bank?  Full Review  {
+  "result": {
+    "confidence": "99.9996", 
+    "sentiment": "Negative"
+  }
+}
+ Norton High Risk I love this app, has never given me any trouble and always seems to work just fine. However, after the last update my Norton virus scan on my phone is now rating this app high risk and suggesting that I remove it? Perhaps Bank of America can comment on this? Obviously I don't want to remove this app, perhaps Bank of America needs to have some conversation with Norton?  Full Review  {
+  "result": {
+    "confidence": "99.7724", 
+    "sentiment": "Positive"
+  }
+}
+ Ok this is the second time you asshats screwed up the sign in after an update I am so sick and tired of third class amateur hack... all around incompetence from this bank.  Chase Manhattan,  or Wells Fargo is getting my business and personal. Enough is enough. Really hate the Feds for bailing out this excuse for legal rape and stupid.  Full Review  {
+  "result": {
+    "confidence": "99.9996", 
+    "sentiment": "Negative"
+  }
+}
+ 2 key pieces of awesome added 1st, thanks for making it so backing out of the app signs you out, I hated how the time out used to kill whatever app I was on. Second, the ability to temo lock and unlock my debit card is fantastic. Thanks!  Full Review  {
+  "result": {
+    "confidence": "61.6115", 
+    "sentiment": "Neutral"
+  }
+}
+ Over all great Much improved from earlier versions. I enjoy using this app, as it is so easy to do so. Keep up the good work B of A!  Full Review  {
+  "result": {
+    "confidence": "98.8138", 
+    "sentiment": "Positive"
+  }
+}
+ Still needs some updates This app does some amazing things. It would be nice to be able to see my reward for my credit card on the app. I have to log on to my computer to see how much cash rewards that have. I have seen other competitors have the feature on their app.  Full Review  {
+  "result": {
+    "confidence": "98.4014", 
+    "sentiment": "Positive"
+  }
+}
+ Right now not happy I have been trying to log on to my accounts all morning and it keeps telling me try again later. Hours later the same thing. Fix it.  Full Review  {
+  "result": {
+    "confidence": "76.5363", 
+    "sentiment": "Negative"
+  }
+}
+  So far it's crap. It says I've already up dated the app but every time I try to login to my account it tells me to up date. Now I can't check my account at all. I call BOA , thinking in was someone phishing. They said it sounded like a messed up tech error on the app.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Great App! I use it all of the time, to stay on top of my balance. It's very convenient and easy to use! As a former employee (for 9 years) I have kept my accounts with B of A for two reasons, one: convenient banking options (mobile, online) & two: the small banking atmosphere in my local banking centers (Santa Fe, NM). They know me and treat me like family! That feels good when you're taking care of someone's money. People work hard for it and they want to know that it's being looked after by someone you TRUST!  Full Review  {
+  "result": {
+    "confidence": "84.5161", 
+    "sentiment": "Positive"
+  }
+}
+ Could be better The app wouldn't let me log in last night without updating it when I just updated it within the last two weeks. Then tonight it wouldn't let me log in because it says that mobile banking is temporarily. I tried logging in using using Chrome on my galaxy s5 and it worked just fine. They still haven't fixed the issue where if you forget to log out of the app after you're done using it, it will alert you and bring you to the log out screen even if you're busy in another app or Web browser.  Full Review  {
+  "result": {
+    "confidence": "99.3923", 
+    "sentiment": "Negative"
+  }
+}
+ Great so far So far very easy to use. Never a problem (knock wood).  Full Review  {
+  "result": {
+    "confidence": "97.4254", 
+    "sentiment": "Positive"
+  }
+}
+  Whenever there is an update you cannot go in your account until you have updated. Most of the time when you go into your account you're probably on the go and want to check your balance right, away but you can't until you update it- that is a very inconvenient  Full Review  {
+  "result": {
+    "confidence": "81.5831", 
+    "sentiment": "Negative"
+  }
+}
+ No Material Design yet update? Please cover black status bar with a different color. Or just copy google lilipop material designed.  Full Review  {
+  "result": {
+    "confidence": "72.1559", 
+    "sentiment": "Negative"
+  }
+}
+ Glitchy since last update On the galaxy S5, when navigating back to the last screen using the apps arrow icon, the app shuts down. Every time. The app used to be great, I'd like this issue fixed.  Full Review  {
+  "result": {
+    "confidence": "65.1100", 
+    "sentiment": "Negative"
+  }
+}
+  I'm amending my previous review. The latest updates have improved the check deposit feature, which initially was quite glitchy, and have added some beneficial features. So I'm much more satisfied than previously.  Full Review  {
+  "result": {
+    "confidence": "80.6225", 
+    "sentiment": "Negative"
+  }
+}
+ The App crashes on Note 3, Android 5.0 I have been using this app long time. it has all great features. However, it crashes in multiple scenarios. such as when I am in transaction details page and if try to go back with back arrow the app crashes. Please fix it. I am relying on the app for all my banking needs.  Full Review  {
+  "result": {
+    "confidence": "94.1733", 
+    "sentiment": "Positive"
+  }
+}
+ Check deposit crashes app. Try to take a pic if the check and the app crashes. Cleared the cach.  Try to do a deposit. Same as above. Has been like that since the patch with the pretty pictures in the app. At least I have pretty pictures to look at before the app crashes.  Full Review  {
+  "result": {
+    "confidence": "99.7573", 
+    "sentiment": "Negative"
+  }
+}
+ Pretty good, but could be better Has most of your basic online banking tools, but could be a little more robust in the additional tools/features it offers  Full Review  {
+  "result": {
+    "confidence": "53.8415", 
+    "sentiment": "Neutral"
+  }
+}
+ Until latest update It embarrassed me and several friend's out to eat. As it was my turn and me being in a heelchair had to send friends down to utilize my card. I had everything set up over the phone. However, BOA decided Primetime on Saturday was best time for surprise to force a very long update. With no warning of said update. Upcoming and I even used auto update to avoid this.  Full Review  {
+  "result": {
+    "confidence": "99.8887", 
+    "sentiment": "Negative"
+  }
+}
+ Nice Great service privacy protection is great and it easy to use and saves you money.  Full Review  {
+  "result": {
+    "confidence": "99.6730", 
+    "sentiment": "Positive"
+  }
+}
+ Wonderful So easy to use and convenient.   Great app!  Full Review  {
+  "result": {
+    "confidence": "95.7792", 
+    "sentiment": "Positive"
+  }
+}
+ User friendly Really easy to use convenient when you don't have time to go to an ATM to make a deposit or check your balance only thing I can recommend is please add a feature so you can report when ATMs are down would make it a lot easier  Full Review  {
+  "result": {
+    "confidence": "93.7209", 
+    "sentiment": "Negative"
+  }
+}
+ Well done but needs fingerprint access PLEASE PLEASE add support for fingerprint security like you have on the iOS version. That would make it 5 stats for me.  Full Review  {
+  "result": {
+    "confidence": "97.3088", 
+    "sentiment": "Negative"
+  }
+}
+ Pack your patience I would give this app no stars if possible. Sometimes it works, but more often it doesn't. It's a huge P.I.T.A$$  Full Review  {
+  "result": {
+    "confidence": "74.6599", 
+    "sentiment": "Positive"
+  }
+}
+ App wont work on s6 My app is fully updated and it wont work. Left me stranded 0 stars if i could  Full Review  {
+  "result": {
+    "confidence": "99.4331", 
+    "sentiment": "Negative"
+  }
+}
+ Fingerprint scanner not working Only reason I'm giving this 3 stars instead of 5. I have to manually type in my password now instead of scanning my finger. I think this happened after last update. I have a Samsung Galaxy 5.  Fix it and I will rate 5 stars.  Full Review  {
+  "result": {
+    "confidence": "65.8232", 
+    "sentiment": "Positive"
+  }
+}
+ Good...when it works Good when it works, but too many times it has froze or signed me out for no reason. Fingerprint log in constantly messes up or flat out doesn't work. I closed the app once because it froze and 30 sec ltr the FP scan popped up. Something needs to get fixed here!!  Full Review  {
+  "result": {
+    "confidence": "99.9455", 
+    "sentiment": "Negative"
+  }
+}
+ It's a good app but has some bugs Fingerprint sign in does not work on nexus 5x also need option to manually snap pictures  Full Review  {
+  "result": {
+    "confidence": "88.1840", 
+    "sentiment": "Negative"
+  }
+}
+ Need help with credit card due date Overall I enjoy this application. However it doesn't show me anything other then my closing date. Which is very inconvenient to say the least.  Full Review  {
+  "result": {
+    "confidence": "72.2762", 
+    "sentiment": "Positive"
+  }
+}
+ Easy to use but... It has great features and is easy to use but... The app icon looks very blurry on my LG g4 and some of the hi elements could be updated  Full Review  {
+  "result": {
+    "confidence": "99.8359", 
+    "sentiment": "Positive"
+  }
+}
+ Business owner. Having more than one account, without being able to use finger print sign in without deactivating it on another account is frustrating.  Full Review  {
+  "result": {
+    "confidence": "93.8968", 
+    "sentiment": "Positive"
+  }
+}
+ Option to add I would like to see the option where you can log in with 4 digit pass code or pattern. Hope it gets added and will update the stars. Thank you  Full Review  {
+  "result": {
+    "confidence": "51.1958", 
+    "sentiment": "Neutral"
+  }
+}
+ Moved will have to close my acct's I wish you had some of your BofA in Louisiana I love this bank. I have it in AR almost three years. I would have to drive to TX. It is too far.  Full Review  {
+  "result": {
+    "confidence": "99.5267", 
+    "sentiment": "Positive"
+  }
+}
+ Too antiquated for 2016 No fingerprint reader support? Really? Capital One has it all. Check our their apps! Get it together bofa.  Full Review  {
+  "result": {
+    "confidence": "96.1631", 
+    "sentiment": "Positive"
+  }
+}
+ Kishore While opening the app prompted for updated version. After that,trying to do check deposit and as soon as the picture was taken getting logged out. I am using samsung s4. Tried multiple times and same issue.  Full Review  {
+  "result": {
+    "confidence": "58.1337", 
+    "sentiment": "Neutral"
+  }
+}
+  Know what'd be nice...not requiring an update to use. Wanted to use to find an atmosphere while on road and couldn't. Ready to leave boa and go to local bank.  Full Review  {
+  "result": {
+    "confidence": "91.2911", 
+    "sentiment": "Negative"
+  }
+}
+ Needs fingerprint reader support for Nexus! Hey please add the fingerprint sensor sign in on the next update. I'm using my Nexus 6p and it has a great fingerprint reader I use for many other apps.  Full Review  {
+  "result": {
+    "confidence": "99.3891", 
+    "sentiment": "Positive"
+  }
+}
+ Why did you change transfers I used to love this app, then B of A changed the method of transferring to another account. This is how my girlfriend and I have worked out bills for 5 years. Now I have to figure out a new way.  Full Review  {
+  "result": {
+    "confidence": "62.5783", 
+    "sentiment": "Negative"
+  }
+}
+ BANK OF AMERICA Best bank ever! I've been going to the same bank in Blue Water Bay since 1988 and will never change!  Full Review  {
+  "result": {
+    "confidence": "79.0098", 
+    "sentiment": "Positive"
+  }
+}
+ BoA's Push into Technology Has Been Well Worth It Hands down, they're on top of the game in technology as a whole, but especially mobile. Their updates and feature additions are always spot on.  Full Review  {
+  "result": {
+    "confidence": "89.2518", 
+    "sentiment": "Positive"
+  }
+}
+ Really good Good app, easy to use, actually useful and the devs actually update it regularly and add features that we want. Good job  Full Review  {
+  "result": {
+    "confidence": "97.6985", 
+    "sentiment": "Positive"
+  }
+}
+ Crashes with Hauwei honor KIW L24 Please fix bug. The app crashes immediately and wouldn't open with the android hauwie KIW L24 honor but worked excellently with my iPhone 6 and Samsung note edge. So I think it's just a bug that need be fixed. Other than that, I would have probably given it a 7 out of 5.  Full Review  {
+  "result": {
+    "confidence": "99.9899", 
+    "sentiment": "Positive"
+  }
+}
+ Sweet I like it. A bit slow at times but it is fine  Full Review  {
+  "result": {
+    "confidence": "99.9880", 
+    "sentiment": "Positive"
+  }
+}
+ Worst update yet Deposit checks doesnt work. Wont allow you to use older version that worked Fine.  Please fix  Full Review  {
+  "result": {
+    "confidence": "83.6235", 
+    "sentiment": "Negative"
+  }
+}
+ Pain in the rear To verify my identity, it wants an answer to a question for which I have no answer.  I know I did not choose this question.  Full Review  {
+  "result": {
+    "confidence": "96.5464", 
+    "sentiment": "Negative"
+  }
+}
+ Useless Citibank's app takes deposits easily. Struggled with this app for 30 minutes and still could not make a simple deposit work! Uninstalling...  Full Review  {
+  "result": {
+    "confidence": "99.9968", 
+    "sentiment": "Negative"
+  }
+}
+ Can not download I had this app and always worked fine, but recently it asked to update and so I did. But it did not update and couldn't use it esither, so I deleted it and try ed to re download  and now I can't do that either..  Full Review  {
+  "result": {
+    "confidence": "79.5352", 
+    "sentiment": "Negative"
+  }
+}
+ Update will not load Forced to update but the update will not load. Tried uninstalling old version and installing new, but again it just will not load. Very annoyed with this  app!  Full Review  {
+  "result": {
+    "confidence": "99.2194", 
+    "sentiment": "Negative"
+  }
+}
+  This app everytime i want to deposit my checks online it always let me take the photo then it logs me out and does not let me make my deposit. I used to like it because it was easy to deposite my checks but now it never lets me do it please fix it  Full Review  {
+  "result": {
+    "confidence": "71.6384", 
+    "sentiment": "Positive"
+  }
+}
+  Great app and the ability to cash checks is the biggest advantage for me. I'm a landlord and used to deposit my checks at the ATM because I couldn't always make it to the bank when it was open. People behind me would give dirty looks or honk and swear at the drive up. I understand their frustration and have been in their shoes at times.  Full Review  {
+  "result": {
+    "confidence": "99.9803", 
+    "sentiment": "Negative"
+  }
+}
+  They have been waiting two days and it still says loading hope this is not a scam I still cannot open buy online apps on my account going back to the bank again Monday  Full Review  {
+  "result": {
+    "confidence": "52.2232", 
+    "sentiment": "Neutral"
+  }
+}
+ Life Saver Love this app. Just wish they hadn't taken away the Windows phone v3rsion...  Full Review  {
+  "result": {
+    "confidence": "87.1519", 
+    "sentiment": "Positive"
+  }
+}
+ Updating Take to long to update....but once it get going i love it. I've waited overnight and it's still not ready.  Full Review  {
+  "result": {
+    "confidence": "95.0051", 
+    "sentiment": "Positive"
+  }
+}
+ Leading the way! I'm not the biggest Bank of America fan however I can't deny that there app is usually superior to most.  Full Review  {
+  "result": {
+    "confidence": "90.6913", 
+    "sentiment": "Positive"
+  }
+}
+ Convinient to have. Just wish I would be able to request a credit increase of my credit cards through the app.  Full Review  {
+  "result": {
+    "confidence": "60.2165", 
+    "sentiment": "Neutral"
+  }
+}
+ So convenient!!! Let's see...  Can I buy that dress? Nope! Not yet,  checked my app and my direct deposit did NOT go through yet! Thank you BoA app! I would have regretted over draft fees!   Full Review  {
+  "result": {
+    "confidence": "99.7348", 
+    "sentiment": "Negative"
+  }
+}
+ Fast n Easy Great app for easy banking. Being able to make transfers from one acct to another in seconds, including while shopping& traveling is a lifesaver!  Full Review  {
+  "result": {
+    "confidence": "95.1962", 
+    "sentiment": "Positive"
+  }
+}
+ Excellent app The app now opens on my device.  I like being able to use my fingerprint to log on. Great way to track my accounts. Very convenient and intuitive.  Full Review  {
+  "result": {
+    "confidence": "99.8138", 
+    "sentiment": "Positive"
+  }
+}
+ Disappointed I updated this app and now its telling me they can't access my information. There is a reason I do not update.  Full Review  {
+  "result": {
+    "confidence": "98.7393", 
+    "sentiment": "Negative"
+  }
+}
+ Helpful banking app, but the size... The app is incredibly helpful, as it's great to have easy access to all banking needs. But 25mbs for the latest update? That's just ridiculous. And to make it where I can't use the app unless I do update, it put me in a bit of a tough spot.  Full Review  {
+  "result": {
+    "confidence": "57.6241", 
+    "sentiment": "Neutral"
+  }
+}
+  The app is faulty. Will not take auto photos of the back of any checks. Must take manually 99% of the time. It's been this way for a long time. Time for BOA to step up and fix this defective app.  Full Review  {
+  "result": {
+    "confidence": "61.6355", 
+    "sentiment": "Neutral"
+  }
+}
+ Dark Mode Please Can you make a dark mode please its much better on the eyes for us night owls  Full Review  {
+  "result": {
+    "confidence": "77.7328", 
+    "sentiment": "Negative"
+  }
+}
+ Superb app, very user-friendly Since I started using this application it made my banking very easy and fast.. Many thanks to BofA and application developers  Full Review  {
+  "result": {
+    "confidence": "99.0250", 
+    "sentiment": "Positive"
+  }
+}
+ The best I didnt know that I can deposit it. .just taking a pic..dont have time to go to the Bank  Full Review  {
+  "result": {
+    "confidence": "75.6947", 
+    "sentiment": "Positive"
+  }
+}
+ Very useful app! This app is great to check in on the status of your accounts. Some of the menu's are similar to the one's you see if you login from your PC. Can you add it the check boxes to verify all the transactions. I use this when I sign in on the PC all the time. Makes it handy to verify everything.  Full Review  {
+  "result": {
+    "confidence": "99.6177", 
+    "sentiment": "Positive"
+  }
+}
+ Inaccurate. Make sure low income individuals don't rely on current balance when using the app, especially when having automatic payments withdrawn. It will overdraw your account with a $35 fee. Rely on your own registrar balance for EVERY transaction.  Full Review  {
+  "result": {
+    "confidence": "89.9262", 
+    "sentiment": "Negative"
+  }
+}
+ Still no update! I have made several request to enable the finger print authentication on my Nexus 6P, which does have finger print Capabilities! My wife's samsung note 4 can uses finger print to access the bank of America app! 5 star when that's done!  Full Review  {
+  "result": {
+    "confidence": "85.3845", 
+    "sentiment": "Negative"
+  }
+}
+ Nice app! Easy to navigate, great features. Performance is great also!  Full Review  {
+  "result": {
+    "confidence": "99.4089", 
+    "sentiment": "Positive"
+  }
+}
+  It'd be nice to be able to login quicker without having to put your password or use the fingerprint bull crap that doesn't work. But other than awesome.  Full Review  {
+  "result": {
+    "confidence": "94.9864", 
+    "sentiment": "Negative"
+  }
+}
+ Works Great.. Fingerprint is not supported on Nexus6p I am using Nexus 6p, my phone does support fingerprint scanner for multiple apps.  Full Review  {
+  "result": {
+    "confidence": "76.5624", 
+    "sentiment": "Positive"
+  }
+}
+ Meeting expectation The new features to lock and unlock cards are legit. And also to activate cards..Thumbs up BOA..  Full Review  {
+  "result": {
+    "confidence": "91.6908", 
+    "sentiment": "Positive"
+  }
+}
+ Slow Since last update this app is slow and unusable. Blank screen for seconds between every action. Horrible.  Full Review  {
+  "result": {
+    "confidence": "99.2264", 
+    "sentiment": "Negative"
+  }
+}
+ Bank necessity! Every bank should have an app similar this app is perfect for banking on the go, checking your balance, or even making transfers and payments. Very well done. And safe and secure that's one of the most important qualities.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Positive"
+  }
+}
+ Leading the Pack Absolutely love this app. BOA is leaps ahead of the others. Absolutely love the check deposit feature. Never experienced a single problem & have been using since it was released.  Full Review  {
+  "result": {
+    "confidence": "99.6082", 
+    "sentiment": "Positive"
+  }
+}
+ Bank statements  are a rip My bank statement changed completely to the amount of money i has at a moment, to the days of transactions. Now I'm in negative which is money i really needed! All thru can say is that it was the merchants fault. When everything was right and ok up to a couple days ago. I am not happy with this bank anymore.they lost a 3 year costumer.       Idk if this updated for you isela but i tried and you guys kept saying the same thing honestly I'm done with bank of America  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Easy to use Wish i could get balace notifications i signed up on website in the begining it did but then stopped i could only see those alerts when am logged in  Full Review  {
+  "result": {
+    "confidence": "82.1879", 
+    "sentiment": "Negative"
+  }
+}
+ Great app,except for one thing. Still no fingerprint support! Honestly I never have issues... Except now I have a Nexus 6P and can't use fingerprint security. This is outrageous seeing as how the api for this was available almost a year ago as part of a developer preview. Get it together BofA! Makes me want to switch to   Chase Bank. Sending template responses to bad reviews doesn't make you look any better than not responding at all. I work in a back office customer service and we handle this exact thing as well as other forms of social media. Your response is poor.  Full Review  {
+  "result": {
+    "confidence": "99.5238", 
+    "sentiment": "Negative"
+  }
+}
+ Check deposits Stop updates.  Camera used to deposit checks smoothly and now doesn't  Full Review  {
+  "result": {
+    "confidence": "59.1966", 
+    "sentiment": "Neutral"
+  }
+}
+ Fingerprint login stopped working All of a sudden my fingerprint login stopped working. It still scans my finger but then it doesn't let me in it just goes blank. Please fix it. I've tried restarting my phone and seeing if there was an update. Nothing works.  Full Review  {
+  "result": {
+    "confidence": "99.7446", 
+    "sentiment": "Negative"
+  }
+}
+  It's a nice banking app. They claim to support fingerprint sign in, but what they don't tell you is they only support certain phones. So my new Nexus phone's fingerprint scanner doesn't work. It's a real bummer. If you're looking forward to the fingerprint sign in, you might be disappointed.  Full Review  {
+  "result": {
+    "confidence": "97.3901", 
+    "sentiment": "Negative"
+  }
+}
+ New customer Won't let me type in my password - app is now useless to me. HELP!  Full Review  {
+  "result": {
+    "confidence": "75.2560", 
+    "sentiment": "Negative"
+  }
+}
+  Generally people who buy the cream of the crop in the cell phone market expect the best features, the best apps and the most utility out of their phone. Unfortunately Bank of America doesn't  think the Nexus 6p is worth their time or attention when it comes to the fingerprint scanner. BOA, get your head on straight and include the flagship android phone in your application. I'll update my review when you update your application.  Full Review  {
+  "result": {
+    "confidence": "99.8561", 
+    "sentiment": "Negative"
+  }
+}
+  Will not allow me to log in anymoreI cannot upgrade !!! Can someone help? Cant get on my mobile BOFA, says go to play store and upgrade. Been upgrading for 4 days, wont finish...????  Full Review  {
+  "result": {
+    "confidence": "93.6260", 
+    "sentiment": "Negative"
+  }
+}
+ Only opens if camera enabled On my LGG2 I disable my camera for security purposes. The app only starts if I enable the camera first. App should only care about camera when it needs it. ..............................................  Its been 8 months and a couple of versions and the app still requires that the camera enabled on start. ...............01/31/2016.. FINALLY..the latest version no longer requires the camera to be enabled on startup. Thanks for listening!  Full Review  {
+  "result": {
+    "confidence": "87.0162", 
+    "sentiment": "Negative"
+  }
+}
+  They should add finger print sign In for capable devices instead of putting in password every time  Full Review  {
+  "result": {
+    "confidence": "93.1620", 
+    "sentiment": "Negative"
+  }
+}
+ Great app,  love it! Check balance 10 times a day. I was able to quickly stop purchases when my card info was stolen. Open savings,  make check deposits, this app just do it all!! Can't remember last time i went in bank, lol.  Full Review  {
+  "result": {
+    "confidence": "97.2863", 
+    "sentiment": "Positive"
+  }
+}
+ Seems to work better, Now that I cleared the cache!   Now.... how exactly does a Customer Redeem Their Cash Rewards on this app?  That'll get you 5 stars!  Full Review  {
+  "result": {
+    "confidence": "82.8769", 
+    "sentiment": "Negative"
+  }
+}
+ Its ok Its easy to use, but I cant review as much as I can on the website.  Full Review  {
+  "result": {
+    "confidence": "55.6851", 
+    "sentiment": "Neutral"
+  }
+}
+ Can't make payment through app? Can't make payment through app? Must use desktop site to pay credit account. Useless...  Full Review  {
+  "result": {
+    "confidence": "96.5292", 
+    "sentiment": "Negative"
+  }
+}
+ Doesn't let me pay my bill. I have this on my tablet & my phone and it does not give me the option to pay my bill. Even when i try thru the  browser on both devices it's the same thing. For some reason on my husband's device it does let him. Wth.  Full Review  {
+  "result": {
+    "confidence": "95.0596", 
+    "sentiment": "Negative"
+  }
+}
+ Check Depositing sucks! It usually take 20 attempts to deposit a check. Big pain. Worked much better before the update.  Full Review  {
+  "result": {
+    "confidence": "98.7507", 
+    "sentiment": "Negative"
+  }
+}
+ BOA Nice app works perfectly. Sad thing here is BOA got bought by Cascade. Will be changing banks asap  Full Review  {
+  "result": {
+    "confidence": "85.5321", 
+    "sentiment": "Positive"
+  }
+}
+ App actually working I wouldn't have believed it if I didn't see it work myself. Forced to upgrade the app to the latest, then deposited a check. No glitches, no delays. The camera is smarter and can recognize when you're close enough to the check then take the pic for you.  Full Review  {
+  "result": {
+    "confidence": "97.2563", 
+    "sentiment": "Negative"
+  }
+}
+ Missing some features This app would be great if I was able to view my Cash Rewards balance on my credit card.  Also, when I go to pay my credit card each month, it doesn't show my statement balance on the pay screen, so I have to look before and write it down so I make sure to enter the right amount to pay.  These issues are not a problem on the Chase, Capital One and Amex apps, so it's a little annoying.  Full Review  {
+  "result": {
+    "confidence": "82.1946", 
+    "sentiment": "Positive"
+  }
+}
+ Check Deposit Finally Works Much better user interface now and check deposit works.  Full Review  {
+  "result": {
+    "confidence": "74.8959", 
+    "sentiment": "Negative"
+  }
+}
+ Always problems BOA always updating app. Most recently it takes an act of Congress to take a picture of a check to deposit. When the app launched it was awesome. I'm looking to go to Wells Fargo, as my friend says their app is flawless.  Full Review  {
+  "result": {
+    "confidence": "99.9980", 
+    "sentiment": "Positive"
+  }
+}
+ Does not support fingerprint on Nexus 6P I will give it 5 stars if the app supported modern phones  Full Review  {
+  "result": {
+    "confidence": "89.6277", 
+    "sentiment": "Negative"
+  }
+}
+ Log in issues. Whenever the online ID is saved I'm continually asked to reenter password. In order to log in I have to uninstall and then reinstall and not save the online ID.  Full Review  {
+  "result": {
+    "confidence": "99.8001", 
+    "sentiment": "Negative"
+  }
+}
+ Last version better. Loads new page for everything you do. Not as smooth as the old one. Doesn't rotate any more. Functional but tedious. It also only allows you to view about two and a half months of history. The old one would go back as far as you wanted.  Full Review  {
+  "result": {
+    "confidence": "55.7596", 
+    "sentiment": "Neutral"
+  }
+}
+ Deposit Checks? Doesn't work anymore? It doesn't even show as an option anymore.  Full Review  {
+  "result": {
+    "confidence": "99.9553", 
+    "sentiment": "Negative"
+  }
+}
+  01-28-2016-UPDATE: wow what an improvement a RED folder can make!! almost trashed old red color folder and ever since this app has not missed a single check--way to go people!!  although it would have been great to have a note to an old red color folder as background, would have saved lots of frustrations.  Thanks BoA   What are the developers doing...??? app used to work just fine, I was even taking about how much better its getting with each new release--until now!! what have you guys done--auto picture taking does NOT work. I have to let the app fail (as I am holing phone in an impossible angle) at taking a picture, turn off light and then manually take it.  Please release one without auto picture ASAP--thanks.  Full Review  {
+  "result": {
+    "confidence": "99.1477", 
+    "sentiment": "Negative"
+  }
+}
+ Can't deposit my check Every time I try to take a picture of my check, I get logged out of my account. Please fix.  Full Review  {
+  "result": {
+    "confidence": "93.6619", 
+    "sentiment": "Negative"
+  }
+}
+  I have the lg nexus 5x the fingerprint scanner is excellent but i cannot log in with it.  Full Review  {
+  "result": {
+    "confidence": "88.4876", 
+    "sentiment": "Positive"
+  }
+}
+ So far so good Went a long way since I first started using it. Hope they'll keep the good work. As it goes it almost completely replaced the need to go to the website.  Full Review  {
+  "result": {
+    "confidence": "86.4395", 
+    "sentiment": "Positive"
+  }
+}
+ Fixed M issues The issues I had with M are fixed! For some reason though, the newer app just looks a little... janky compared to the old one. The main entry page looks like an HTML login with no click states. Works great though!  Full Review  {
+  "result": {
+    "confidence": "93.3468", 
+    "sentiment": "Negative"
+  }
+}
+ Its a great app But please add Finger Print for the Nexus Devices.  Full Review  {
+  "result": {
+    "confidence": "61.7404", 
+    "sentiment": "Neutral"
+  }
+}
+ Cash rewards Would be great if I can view my cash rewards in the app!  Full Review  {
+  "result": {
+    "confidence": "80.8553", 
+    "sentiment": "Negative"
+  }
+}
+ Great for quick actions Nice for last minute bill payment and checking balances...but would like the ability to VIEW bills or statements  Full Review  {
+  "result": {
+    "confidence": "86.2649", 
+    "sentiment": "Positive"
+  }
+}
+ No fingerprint login When your app description says "Set up fingerprint sign-in to securely sign in to the app instead of using your Passcode", you would expect to be able to login using a fingerprint. However, this is not true.  Full Review  {
+  "result": {
+    "confidence": "71.5287", 
+    "sentiment": "Negative"
+  }
+}
+ Love it This app saves me so much time and hassle. I was tired of complaining to boa about how racist the manager and couple of her employees were to me and now it's simple.  Full Review  {
+  "result": {
+    "confidence": "60.8957", 
+    "sentiment": "Neutral"
+  }
+}
+ Easy-to-use I love everything about banking on line... easy, fast and convenient..  Full Review  {
+  "result": {
+    "confidence": "80.6997", 
+    "sentiment": "Positive"
+  }
+}
+ Great!!!! I will say personally, for the yrs... of service with BOA never been disappointed with their service, they have done over and beyond and I will not LIE, every person is different and how you approach or speak with respect you will or should receive the same!!  Full Review  {
+  "result": {
+    "confidence": "98.2074", 
+    "sentiment": "Positive"
+  }
+}
+ ALL Accts & Mortgage Here & Have Nothing But Problems Can't Link My Phone with my Husband's Phone to Pay Online Bills & Sched Mortgage payments & all my bills!! & I'm charged to bank with you?!     Hrs are absurd!! Time for change-&customer since 2001, that says it All  Full Review  {
+  "result": {
+    "confidence": "97.5015", 
+    "sentiment": "Negative"
+  }
+}
+ I love it but I keep receiving my text and email alerts in spanish you guys should add a language setting on the app how am i able to change it in the meanwhile  Full Review  {
+  "result": {
+    "confidence": "99.4690", 
+    "sentiment": "Positive"
+  }
+}
+ Past few months it is unusable Numerous deletions and reloads attempted..constant messages of unable to establish a connection...I've restarted my phone over and over (droid maxx)  Full Review  {
+  "result": {
+    "confidence": "80.8041", 
+    "sentiment": "Positive"
+  }
+}
+ Not so good. Had originally rated this app a 4 star, now it's down to 1 since a major issue is still left unfixed. I get that I have been "signed out for my security" but there is no reason for the app to take priority over what I'm doing and pop up right while I'm in the middle of something. The simple message at the bottom is enough. For the second time please fix this, it really discourages me from using the app for anything.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Fingerprint sign in not supported Not everyone has a Samsung device. Fingerprint API is now available for any Android phone running 6.0  Full Review  {
+  "result": {
+    "confidence": "66.9970", 
+    "sentiment": "Negative"
+  }
+}
+ User friendly Again very user friendly.  Love the transaction options.  OVER ALL great tool.  Full Review  {
+  "result": {
+    "confidence": "99.1852", 
+    "sentiment": "Positive"
+  }
+}
+ Good app but.. I love being able to check my credit card balance and see transactions but it needs an option to allow you to pay on a credit card even if you don't have a BOA checking account. The app would go from helpful to must have with this single feature!  Full Review  {
+  "result": {
+    "confidence": "92.4095", 
+    "sentiment": "Positive"
+  }
+}
+ Love the App User friendly and does the job.  The only thing I can't do is access my Home equity loan. I have to go to the website to check the balance. Other than that this is a great App.  Full Review  {
+  "result": {
+    "confidence": "98.8122", 
+    "sentiment": "Positive"
+  }
+}
+ Not working I can't see my account information.  When I tap my account, the app does nothing.  I can't view any of my account information. Please fix  Full Review  {
+  "result": {
+    "confidence": "99.5359", 
+    "sentiment": "Negative"
+  }
+}
+  No fingerprint option on nexus 6  running lollipop, please fix it & I will give 5 starts  Full Review  {
+  "result": {
+    "confidence": "90.6787", 
+    "sentiment": "Negative"
+  }
+}
+ Easy and Convenient Easy,  clean and well maintained!  Love being in control of my banking while on the go!  Thank you!  Full Review  {
+  "result": {
+    "confidence": "99.8792", 
+    "sentiment": "Positive"
+  }
+}
+ Ancient and useless Compared to other banks it is very limited but the worst is their need for constant updates. I was somewhere with no land lines and no cell phone towers (no companies in the area), and the only connection was an extremely slow wifi  (dl at 100kbps). Couldn't choose to update later as they force you no matter what, and I ended up spending over an hour with all the lost connections for a simple transfer.  So I had to drive an hour to town to get a signal, and ended up with 4 hours wasted that day thx to BofA.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Bank of America This new update it's horrible it takes a long time to load and sometimes i can't even log in or make transfers. At first i thiught it was my password then i changed it and the problem continued. Its so frustrating they need to fix this or make a new update to the app.  Full Review  {
+  "result": {
+    "confidence": "99.6406", 
+    "sentiment": "Negative"
+  }
+}
+ Still Garbage! It's 2016!!!! Why on earth can I NOT pay my personal loan on your app or your website? WHY am I forced to call an automated system or visit a branch??? Get with the program already! What a loser operation.  Full Review  {
+  "result": {
+    "confidence": "98.3383", 
+    "sentiment": "Negative"
+  }
+}
+ Was working before Would give this app 5 stars but the fingerprint sign in feature doesn't show up since the most recent update on my Galaxy s6 edge. Otherwise really good app, can do everything from here... Except wire transfers. Still need to use the desktop version. Hey boa, can you enable safe pass codes to be generated or approved straight from the app?  Full Review  {
+  "result": {
+    "confidence": "99.5879", 
+    "sentiment": "Negative"
+  }
+}
+ Good app but... When the app auto-signs out due to inactivity it takes you back to the app. A bit intrusive.  Full Review  {
+  "result": {
+    "confidence": "95.3966", 
+    "sentiment": "Positive"
+  }
+}
+ A1 Banking! Great app! So secure you could bank loads of drug money and nobody would know a single penny was deposited!  Full Review  {
+  "result": {
+    "confidence": "87.7035", 
+    "sentiment": "Negative"
+  }
+}
+ Great app... But still having few issues.  Automatic check picture capturing rarely works... default pic capturing should be an option.  Also, why can you not have fingerprint login for BOTH business and personal accounts??  It makes no sense... they're both my accounts, and both on the same phone... please fix!  Full Review  {
+  "result": {
+    "confidence": "99.7663", 
+    "sentiment": "Negative"
+  }
+}
+ It takes forever to update Too long to update but, once install is great  Full Review  {
+  "result": {
+    "confidence": "50.8564", 
+    "sentiment": "Neutral"
+  }
+}
+ Meh Its nice when it works but most of the time I get the 'cannot process' message. Really irritating!  Full Review  {
+  "result": {
+    "confidence": "67.5289", 
+    "sentiment": "Positive"
+  }
+}
+ Fingerprint sign in gone with update I have a Samsung Galaxy Note 5, and the fingerprint feature is no longer working.  I don't even have the option to use my fingerprint, even though it shows that it's enabled in the settings.  This is a supported phone, so what gives?  Full Review  {
+  "result": {
+    "confidence": "71.2101", 
+    "sentiment": "Negative"
+  }
+}
+ Great app Luv the fact I can manage my account's in the reach of my availability.  Full Review  {
+  "result": {
+    "confidence": "59.7944", 
+    "sentiment": "Neutral"
+  }
+}
+ Great app No memory on phone for new updates though. :&lt;  Full Review  {
+  "result": {
+    "confidence": "62.1183", 
+    "sentiment": "Neutral"
+  }
+}
+ Average. Locks up a lot & doesn't login well. I prefer the desktop full site. Locks up often.  Full Review  {
+  "result": {
+    "confidence": "64.6124", 
+    "sentiment": "Negative"
+  }
+}
+ Great app Everything I need to know is right here mobile banking  Full Review  {
+  "result": {
+    "confidence": "71.3179", 
+    "sentiment": "Positive"
+  }
+}
+ Nexus imprint This needs to be implemented asap, no excuse this does not work on Google nexus devices, yet works in Samsung!  Full Review  {
+  "result": {
+    "confidence": "77.0687", 
+    "sentiment": "Negative"
+  }
+}
+ Check deposit is terrible!  Also it uninstalls itself quite frequently. Please fix! New version is better. Thanks for the improvment.  Full Review  {
+  "result": {
+    "confidence": "98.1039", 
+    "sentiment": "Negative"
+  }
+}
+  Working so much better! Thank you for fixing my issue! Well done. I use the app every day now without issue.  Full Review  {
+  "result": {
+    "confidence": "74.3051", 
+    "sentiment": "Negative"
+  }
+}
+  STILL no fingerprint support for anything besides Samsung devices.  Really behind the times here...  Full Review  {
+  "result": {
+    "confidence": "70.6859", 
+    "sentiment": "Negative"
+  }
+}
+ Fingerprint scanner is neat, but... Add fingerprint scanning support for Nexus 6p, thanks in advance.  Full Review  {
+  "result": {
+    "confidence": "69.6993", 
+    "sentiment": "Positive"
+  }
+}
+ Great App; great bank!! Easy to use, absolutely love the notifications.  Full Review  {
+  "result": {
+    "confidence": "95.8940", 
+    "sentiment": "Positive"
+  }
+}
+ Easy to use app I like the app way to go   Full Review  {
+  "result": {
+    "confidence": "74.7058", 
+    "sentiment": "Positive"
+  }
+}
+ Newest Update Broke Sign-In After installing the newest update on my HTC One M8, I can no longer sign in to the app. It allows me to put in my username, but the password box is not selectable, so I cannot enter my password.  Full Review  {
+  "result": {
+    "confidence": "91.5471", 
+    "sentiment": "Negative"
+  }
+}
+  Does everything I Could ttuik of wanting to do. Great in BOA  Full Review  {
+  "result": {
+    "confidence": "55.2115", 
+    "sentiment": "Neutral"
+  }
+}
+ Mobile apt update The original apt worked OK most of the time with my droid 4. The update will not work in any type of light. Bad apt useless. My comments are in reference to deposits by phone. Here we go again. Every time the apt is updated it stops working. Will not take picture of check at all. Droid 4 was working most of time. 2/12/16:  Full Review  {
+  "result": {
+    "confidence": "99.9711", 
+    "sentiment": "Negative"
+  }
+}
+ Not Comparable BoA apps and even website is not comparable...it's outstanding and full of features that makes life much easier. if you have any other account with another bank... you will know what I mean.  Full Review  {
+  "result": {
+    "confidence": "99.1908", 
+    "sentiment": "Positive"
+  }
+}
+ I hate Bank of America When you make a deposit! Why does it takes too long for the money to be available!!!!  Full Review  {
+  "result": {
+    "confidence": "99.7469", 
+    "sentiment": "Negative"
+  }
+}
+ Ms.S J I'm enjoying my on line banking! I can pay all my bills on time ! Even 100/ o'clock in the morning! When I get off work! Cause I work  the midnight sjift  Full Review  {
+  "result": {
+    "confidence": "64.2824", 
+    "sentiment": "Negative"
+  }
+}
+  Since updating the app 4 times I cannot get to my account at all.  This is horrible.  Full Review  {
+  "result": {
+    "confidence": "99.8134", 
+    "sentiment": "Negative"
+  }
+}
+ It worked great util.. This morning when I was forced to update the app, since then when i try to deposit a check after a take the picture of the check the app will log out and i will need to over. I deleted and reinstalled the app but the problem is still there hope it gets fixed quickly.  Full Review  {
+  "result": {
+    "confidence": "51.3946", 
+    "sentiment": "Neutral"
+  }
+}
+  Its awful for making deposits with a check. I have to use it because there really arent any Bank of America branches near where I live and I have had problems with ATMs before as well but everytime I need to deposit a check I have to take like 100 pictures of it before they can go thru. Its really frustrating.  Full Review  {
+  "result": {
+    "confidence": "99.8807", 
+    "sentiment": "Negative"
+  }
+}
+  Don't know what I would do without it sometimes  Full Review  {
+  "result": {
+    "confidence": "74.0509", 
+    "sentiment": "Negative"
+  }
+}
+  The app work fine wish it had support for Google imprint  Full Review  {
+  "result": {
+    "confidence": "86.4485", 
+    "sentiment": "Positive"
+  }
+}
+  Ever since a couple updates ago, I have not been able to deposit a check using the app. I have gone the customer service route and they keep saying "it will be fixed" . Not yet. UPDATE:Just downloaded the new update, same thing. It freezes after taking a picture of a check. Can't you go back to the way it was? SMH  Full Review  {
+  "result": {
+    "confidence": "52.0722", 
+    "sentiment": "Neutral"
+  }
+}
+ Problems with the server on mobile phone or just app bug. I recently updated the app and tried to deposit a check through photo then the app stopped letting me sign in saying that some people couldn't access mobile at the time. Either way, still a good app for on-the-go banking.  Full Review  {
+  "result": {
+    "confidence": "96.7220", 
+    "sentiment": "Negative"
+  }
+}
+ Flawless Awesome. Best banking mobile app. Keep up the good work.  Full Review  {
+  "result": {
+    "confidence": "98.0437", 
+    "sentiment": "Positive"
+  }
+}
+  They have never even tested the deposit check feature, it never works, don't bother with this app!!  Full Review  {
+  "result": {
+    "confidence": "99.9999", 
+    "sentiment": "Negative"
+  }
+}
+ Decent I like the app but it doesn't let me reset my pin on my debit card, I have to go into the branch which is awful.  I like convenience, so I don't want to go into the branch.  Also, I would like to activate a budget or financial goal through the app.  I can open an account from the app but can't reset my pin or look at my goals or budget , why? I know it can be done because other banks do it.  You guys are supposed to be the leaders of innovation but maybe I give you to much credit.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Thanks for the help My Play Store was set to update over WiFi only.....   my bad  Full Review  {
+  "result": {
+    "confidence": "58.3570", 
+    "sentiment": "Neutral"
+  }
+}
+ Excellent Quality This App makes mobile banking easy AND safe. I've never had any problems.  Full Review  {
+  "result": {
+    "confidence": "65.7909", 
+    "sentiment": "Positive"
+  }
+}
+ Update bugged. Every log in it makes me set same challenge questions Whenever I log in now it says my account has been locked. Fine, so I have it send me a code through my verified method. But then it takes me to a screen to set the value of challenge question answers. It does this every time. It never asks me for the correct answers just to set the answers. Doesn't sound very secure. Additionally when the session end warning pops up it should not then interrupt whatever you may be doing and take you back to the blank password login screen.  Full Review  {
+  "result": {
+    "confidence": "72.0494", 
+    "sentiment": "Negative"
+  }
+}
+ Best banking app out there, period. Deposit pics are taken automatically, pretty cool.  Fingerprint thing needs attention.  Good job BAC, well done.  Full Review  {
+  "result": {
+    "confidence": "94.6984", 
+    "sentiment": "Positive"
+  }
+}
+ BofA makes my life easier! What a great time saver!  Full Review  {
+  "result": {
+    "confidence": "98.5688", 
+    "sentiment": "Positive"
+  }
+}
+ My phone hates to update I have so much trouble updating everytime.  Full Review  {
+  "result": {
+    "confidence": "68.0279", 
+    "sentiment": "Negative"
+  }
+}
+ Forces updates Very annoying when I want to use and am forced to update app!  Create a link to website mobile app in place of actual app.  Just as simple and doesn't require forced weekly updates!!!  Full Review  {
+  "result": {
+    "confidence": "53.4786", 
+    "sentiment": "Neutral"
+  }
+}
+ Terrible Just brings me back to the log in screen after scanning a check.  Gets worse with every update.  Let's see if anyone reads this and fixes it........  Full Review  {
+  "result": {
+    "confidence": "99.9372", 
+    "sentiment": "Negative"
+  }
+}
+  Love this app... When it works, which is the main issue. At least once a month a update completely breaks the app. Edit: Yet another disappointment. No support for new marshmallow fingerprint api :(  Full Review  {
+  "result": {
+    "confidence": "99.8148", 
+    "sentiment": "Positive"
+  }
+}
+  A #1 mobile banking app. I love it!  Full Review  {
+  "result": {
+    "confidence": "96.1077", 
+    "sentiment": "Positive"
+  }
+}
+  SPEAK SOFTLY & MAKE A BIG DEPOSIT. FANTASTIC APP!!  Full Review  {
+  "result": {
+    "confidence": "59.7412", 
+    "sentiment": "Neutral"
+  }
+}
+  Love it..I can check my balance anytime and be on track of my accounts  Full Review  {
+  "result": {
+    "confidence": "85.0451", 
+    "sentiment": "Positive"
+  }
+}
+ Update ruined check depositing The BofA app had been really good but the last update made it nearly impossible to deposit checks. It grabs the image of the check before the camera has a chance to focus, causing it to get blurry images every time. This could have caused huge problems because it took several days before BofA told me that my paycheck deposit had been denied. When I tried to deposit it again, I realized what was going on. They should bring back a button to allow manually taking the check pictures.  Full Review  {
+  "result": {
+    "confidence": "99.9915", 
+    "sentiment": "Negative"
+  }
+}
+ App is HORRIBLE after update!!! Has too many tweaks. Unable to make transfers, view purchases, and change settings. Takes forever to load. Anytime I try to click on something, the app automatically restarts and logs me out. Not even able to use app. Very disappointed because before I had to do the required update, the app "was" working perfectly. Please fix, then I will change my rating back to 5 stars.  Full Review  {
+  "result": {
+    "confidence": "99.9974", 
+    "sentiment": "Negative"
+  }
+}
+  Very convenient, pay your bills from any computer.  Full Review  {
+  "result": {
+    "confidence": "71.3824", 
+    "sentiment": "Negative"
+  }
+}
+ Crap Never let's me sign in and when I go to rest password it's always an error  Full Review  {
+  "result": {
+    "confidence": "97.4569", 
+    "sentiment": "Negative"
+  }
+}
+ Great and flexible banking app Would love a new feature that allows the nexus 6p and moto X pure edition to utilize the back finger sensor instead of password  Full Review  {
+  "result": {
+    "confidence": "99.7619", 
+    "sentiment": "Positive"
+  }
+}
+  Love how I can check my balance anywhere I am.  Full Review  {
+  "result": {
+    "confidence": "89.4250", 
+    "sentiment": "Positive"
+  }
+}
+ Recanting my old review. Way better than it use to be!  Full Review  {
+  "result": {
+    "confidence": "74.9199", 
+    "sentiment": "Negative"
+  }
+}
+  Won't let me log in. Deleted it then redownloaded it and still the same problem!!!  Full Review  {
+  "result": {
+    "confidence": "51.2374", 
+    "sentiment": "Neutral"
+  }
+}
+ Update,  not happy Fingerprint no longer recognized my prints. I have restarted my phone and still no go.  I will reinstall the app,  and see if that helps.  That fixed the problem,  I hope this doesn't become a constant event. Can do nearly everything on my cell.  Full Review  {
+  "result": {
+    "confidence": "85.6921", 
+    "sentiment": "Negative"
+  }
+}
+ Best app Wow i can easyly check my account  Full Review  {
+  "result": {
+    "confidence": "63.0110", 
+    "sentiment": "Negative"
+  }
+}
+ Best out there Their online banking has always been far ahead of the competition and the app is too!  Full Review  {
+  "result": {
+    "confidence": "88.3466", 
+    "sentiment": "Positive"
+  }
+}
+  Where are the fingerprints?  Such an application is basically un-useable without fingerprints security but I can't find how to make this work on my Nexus 5x.  Without fingerprints, this is either a weak password and good luck with hacking or a strong password that is too much to remember or too hard to enter on a mobile device.  Full Review  {
+  "result": {
+    "confidence": "99.9993", 
+    "sentiment": "Negative"
+  }
+}
+ new upgrade beware, latest upgrade screws up the fingerprint feature for galaxy s5  Full Review  {
+  "result": {
+    "confidence": "50.5913", 
+    "sentiment": "Neutral"
+  }
+}
+ on line banking... Easy peasy Been using on-line for years, now the app is just as user friendly, and gets better features all the time!  Full Review  {
+  "result": {
+    "confidence": "55.7879", 
+    "sentiment": "Neutral"
+  }
+}
+ Overall I love everything about the app. Its a must have  Full Review  {
+  "result": {
+    "confidence": "98.5188", 
+    "sentiment": "Positive"
+  }
+}
+ Crashing When I  look up merchants details. It crashes and logs me out of app. Please fix  Full Review  {
+  "result": {
+    "confidence": "96.1305", 
+    "sentiment": "Negative"
+  }
+}
+ Credit cards I can no longer see my credit card balance.  Full Review  {
+  "result": {
+    "confidence": "92.4515", 
+    "sentiment": "Negative"
+  }
+}
+ This app keeps crashing This app don't want to work on my LG stylo it keeps crashing and restartin  Full Review  {
+  "result": {
+    "confidence": "79.3581", 
+    "sentiment": "Negative"
+  }
+}
+ It works great!! It's very helpful and barely crashes..best useful app!  Full Review  {
+  "result": {
+    "confidence": "90.6392", 
+    "sentiment": "Positive"
+  }
+}
+ Super helpful This app is super convient I always check my account and its super easy to use u just log in and bam all ur info is there  Full Review  {
+  "result": {
+    "confidence": "89.8685", 
+    "sentiment": "Positive"
+  }
+}
+ B Of America I like the app, it's easy to use and keeps me informed on my banking decisions.  Full Review  {
+  "result": {
+    "confidence": "94.9207", 
+    "sentiment": "Positive"
+  }
+}
+ Great App Never had any problems! App does what it says it does!  Full Review  {
+  "result": {
+    "confidence": "55.3810", 
+    "sentiment": "Neutral"
+  }
+}
+ Awesome app But This is an awesome app. Would give it a full 5 stars if it worked well with the Nexus imprint (aka Fingerprint scanner) on my Nexus 6p.  Come on BoA, get your developers on it.  Updated support needed for fingerprint scanners on more devices.  Full Review  {
+  "result": {
+    "confidence": "99.5298", 
+    "sentiment": "Positive"
+  }
+}
+ Can't reinstall app App worked fine for a while, loved it, but after a while it would just stop opening,  I had to uninstall it and since then I have never been able to reinstall it. I've restarted my phone, removed useless apps, nothing works.  It just keeps trying to install but never finishes installing. // I have received an answer from Bank of America and now app works fine. Thanks !!!!!  Full Review  {
+  "result": {
+    "confidence": "87.2667", 
+    "sentiment": "Negative"
+  }
+}
+ Cannot download update Cannot download updated version. It downloads continuously but never installs.  Full Review  {
+  "result": {
+    "confidence": "59.1698", 
+    "sentiment": "Neutral"
+  }
+}
+ Finger print scan Finger print scan no longer works after update. I don't understand why it's not supported on my galaxy s6? I normally love this app, but as of now I'm highly disappointed by this inconvenience, since I'm already spoiled by technology.  Full Review  {
+  "result": {
+    "confidence": "91.4978", 
+    "sentiment": "Negative"
+  }
+}
+ New Update The app was working flawlessly up until this new update. Now the mobile deposit function doesn't work. It freezes up while processing my check image. Please fix this and come out with a new update.  Full Review  {
+  "result": {
+    "confidence": "86.8119", 
+    "sentiment": "Negative"
+  }
+}
+  Very easy to use ,very fast to see your account.  Full Review  {
+  "result": {
+    "confidence": "97.9015", 
+    "sentiment": "Positive"
+  }
+}
+ BoA I really enjoy the app and the service i get from this bank. You've never let me down. Thanks  Full Review  {
+  "result": {
+    "confidence": "54.4373", 
+    "sentiment": "Neutral"
+  }
+}
+ Great app. Had this app for many years and use it all the time.  Full Review  {
+  "result": {
+    "confidence": "98.9801", 
+    "sentiment": "Positive"
+  }
+}
+ Worst app ever Constantly restarts when I use mobile deposit. Nexus 5x.  Full Review  {
+  "result": {
+    "confidence": "97.2100", 
+    "sentiment": "Negative"
+  }
+}
+ Easy and user friendly I can do all my transactions from anywhere. Sometimes I can't deposit checks if I don't have good natural light and that's a bit annoying but otherwise is a very good tool for me and my business  Full Review  {
+  "result": {
+    "confidence": "51.2571", 
+    "sentiment": "Neutral"
+  }
+}
+ GS5 Don't like the fact that have to have access to WiFi and media/photo/videos and mic. Nothing to do with BOA. I gave you 1 now for poor solution,  I'm an IT tech always on top of technology,  I know how to cache and app memory cleaning but your answered just killed it Eric. YOU SHOULD NOT HAVE ACCESS TO MY PRIVATE DOCS AND MEDIA, THAT'S VIOLATION AND INVASION OF PRIVACY.  Full Review  {
+  "result": {
+    "confidence": "99.9953", 
+    "sentiment": "Negative"
+  }
+}
+ Stop updating every other week It's fine.  Full Review  {
+  "result": {
+    "confidence": "71.4465", 
+    "sentiment": "Negative"
+  }
+}
+ Solid, dependable app Never had any problems, have paid all kinds of bills, etc. without issues. As solid as they come.  Full Review  {
+  "result": {
+    "confidence": "58.1207", 
+    "sentiment": "Neutral"
+  }
+}
+ APP-itizing! Enjoying the updates to lock/unlock my debit/credit card if I've misplaced it!  Saves me from having to get a whole new card!  Also love the check deposit feature!  Full Review  {
+  "result": {
+    "confidence": "99.2049", 
+    "sentiment": "Positive"
+  }
+}
+ New Sign In Fingerprint sign in works great!  Full Review  {
+  "result": {
+    "confidence": "81.5887", 
+    "sentiment": "Positive"
+  }
+}
+ Nexus imprint When will I be able to use my finger print to sign in  Full Review  {
+  "result": {
+    "confidence": "80.6824", 
+    "sentiment": "Positive"
+  }
+}
+ Cannot deposit check I use to love this feature but now after the update I am not able to submit any checks because the camera doesn't turn on. Phone is Nexus 6P.  Full Review  {
+  "result": {
+    "confidence": "82.4083", 
+    "sentiment": "Negative"
+  }
+}
+ Crashing Will you please do something about it crashing anytime I try to open a task!!! :(  Full Review  {
+  "result": {
+    "confidence": "96.7736", 
+    "sentiment": "Negative"
+  }
+}
+ Great App I love being able to deposit checks by taking a few pictures. I love this app  Full Review  {
+  "result": {
+    "confidence": "99.9563", 
+    "sentiment": "Positive"
+  }
+}
+ BoA app BoA I is the best bank app ever .... Period*!!,  Full Review  {
+  "result": {
+    "confidence": "89.5847", 
+    "sentiment": "Positive"
+  }
+}
+ Best banking app I like the app, can do all my personal and business banking on the app, feeling secure.  Full Review  {
+  "result": {
+    "confidence": "99.7193", 
+    "sentiment": "Positive"
+  }
+}
+  You can't make a mortgage payment from your phone. Hate Bank of America.  Full Review  {
+  "result": {
+    "confidence": "94.7119", 
+    "sentiment": "Negative"
+  }
+}
+  Super easy to use and very accessible. Bank of America truly surprised me with this app.  Full Review  {
+  "result": {
+    "confidence": "99.4769", 
+    "sentiment": "Positive"
+  }
+}
+ New update works perfectly fine. Have no problems running on my samsung 4s version 5.0.1 the app works just as advertised  Full Review  {
+  "result": {
+    "confidence": "92.0078", 
+    "sentiment": "Positive"
+  }
+}
+ Great app Great app except depositing checks by scanning is challenging.. Update Feb 2016: now the scanning app works great too but downtime often!  Full Review  {
+  "result": {
+    "confidence": "77.5431", 
+    "sentiment": "Negative"
+  }
+}
+ Logging out You know the thing when you forget to log out and you start to do something else and a few minutes later you get the pop up telling you you've been logged out of the banking session and it takes you out of what you were doing only to take you to the banking app to show you nothing? Yeah, that last part, don't do it anymore, it's ridiculously annoying.  Full Review  {
+  "result": {
+    "confidence": "99.2685", 
+    "sentiment": "Negative"
+  }
+}
+  App.keeps popping up saying it is signing  out even when not being used  Full Review  {
+  "result": {
+    "confidence": "67.6782", 
+    "sentiment": "Negative"
+  }
+}
+ FINGERPRINT LOG IN It works for about 2 days and then stops working.  Can this be fixed please?  Full Review  {
+  "result": {
+    "confidence": "78.3418", 
+    "sentiment": "Negative"
+  }
+}
+ Bofa I have this app on my phone also & have had a very good success with it. It is exactly what I needed to manage my account  Full Review  {
+  "result": {
+    "confidence": "97.3563", 
+    "sentiment": "Positive"
+  }
+}
+ Crashing When I  look up merchants details. It crashes and logs me out of app. Please fix  Full Review  {
+  "result": {
+    "confidence": "96.1305", 
+    "sentiment": "Negative"
+  }
+}
+ Convenient Haven't had to do much more than check balances and transfer money. Does that well. Hope it comes in handy when there is suspicious activity.  Full Review  {
+  "result": {
+    "confidence": "98.6759", 
+    "sentiment": "Negative"
+  }
+}
+ Best Of All Best of customer service and easy to use.  Full Review  {
+  "result": {
+    "confidence": "99.1129", 
+    "sentiment": "Positive"
+  }
+}
+ Great app! Always keeping me updated!  Full Review  {
+  "result": {
+    "confidence": "83.8992", 
+    "sentiment": "Positive"
+  }
+}
+  Love this app, it's easy to use and I love that I can transfer between my accounts quick and easily and check my balance without jumping through security hoops over and over again, it saves my user ID all I have to do is enter my password.  Full Review  {
+  "result": {
+    "confidence": "99.9406", 
+    "sentiment": "Positive"
+  }
+}
+ Well used It's easy and efficient to use. Never have issue with it, we'll maintained system.  Full Review  {
+  "result": {
+    "confidence": "98.0639", 
+    "sentiment": "Positive"
+  }
+}
+ simple to use I love this app  Full Review  {
+  "result": {
+    "confidence": "99.8610", 
+    "sentiment": "Positive"
+  }
+}
+ It has saved my money life lol I utilize this app a lot. Very convenient. Something useful.  Full Review  {
+  "result": {
+    "confidence": "95.0846", 
+    "sentiment": "Negative"
+  }
+}
+  Great app!! Easy-to-use. Love all the features! !  Full Review  {
+  "result": {
+    "confidence": "93.3786", 
+    "sentiment": "Positive"
+  }
+}
+  I Love this app, quite easy to use, no problems with the app as yet, keep up the good works.  Full Review  {
+  "result": {
+    "confidence": "99.8782", 
+    "sentiment": "Positive"
+  }
+}
+ PeaceMaker I am very pleased with this app.  Full Review  {
+  "result": {
+    "confidence": "95.3626", 
+    "sentiment": "Positive"
+  }
+}
+ My Bank is the best When ever I need a quick check this app is always helpful.  Full Review  {
+  "result": {
+    "confidence": "96.0866", 
+    "sentiment": "Positive"
+  }
+}
+ App Every time i go to log in it it gives me a error message really sucks fix it and i will give you a five star  Full Review  {
+  "result": {
+    "confidence": "91.9237", 
+    "sentiment": "Negative"
+  }
+}
+ FUBAR Have tried for 4 days for upgrades but have not been able to sign .  Full Review  {
+  "result": {
+    "confidence": "80.9259", 
+    "sentiment": "Negative"
+  }
+}
+  I hate that it won't work with out updates and it won't update due to not enough memory and yet it worked fine before i had to update  Full Review  {
+  "result": {
+    "confidence": "99.8208", 
+    "sentiment": "Negative"
+  }
+}
+ Works very well All features are good to use  Full Review  {
+  "result": {
+    "confidence": "93.4859", 
+    "sentiment": "Positive"
+  }
+}
+ Ease of use Even my children can scan checks, check balance information and pay bills.  Full Review  {
+  "result": {
+    "confidence": "82.2945", 
+    "sentiment": "Positive"
+  }
+}
+ Great app Great app, but updates fingerprint scan feature for Nexus 6P will be nice.  Full Review  {
+  "result": {
+    "confidence": "74.9655", 
+    "sentiment": "Positive"
+  }
+}
+ This app has steadily improved It's still got its UX quirks, but it does what it needs to do. I kinda like the older way of depositing checks - I feel like I have less control of the camera now. We have native fingerprint APIs now with Android 6.0, so I'll be waiting for support on the Nexus 6P. Edit: any update on the status of native fingerprint API support (aka Nexus Phones)? A couple of updates have been pushed out already with no new support.  Full Review  {
+  "result": {
+    "confidence": "98.4166", 
+    "sentiment": "Negative"
+  }
+}
+ Tablet Optimization It runs great on both my phone and tablet, but a tablet optimized version of this app would be greatly appreciated.  Full Review  {
+  "result": {
+    "confidence": "90.7179", 
+    "sentiment": "Positive"
+  }
+}
+ Great, but fingerprint login isn't working. One of my favorite features with this app was logging in using my fingerprint. As of the past week this feature no longer works, it prompts you to enter the fingerprint and then after you do, you still have to log in with your password.  Full Review  {
+  "result": {
+    "confidence": "96.3400", 
+    "sentiment": "Positive"
+  }
+}
+ Great app Great app but need to be able to sign in with the nexus imprint.  Full Review  {
+  "result": {
+    "confidence": "91.7436", 
+    "sentiment": "Positive"
+  }
+}
+ Definitely improving. Now that the mobile check deposit issue is resolved the app is quite good. I'd like to see fingerprint reader login verification in the next version!  Full Review  {
+  "result": {
+    "confidence": "65.1006", 
+    "sentiment": "Positive"
+  }
+}
+ Smooth Operation Easy to manage your finance!  Full Review  {
+  "result": {
+    "confidence": "88.0016", 
+    "sentiment": "Positive"
+  }
+}
+  I use this app multiple times a day. I love it. It makes my life so much easier!  Full Review  {
+  "result": {
+    "confidence": "94.5527", 
+    "sentiment": "Positive"
+  }
+}
+  This app is amazing and well organized. I love the fact that I can check my balance, make transfers, and even deposit checks on the go. Highly recommended  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Positive"
+  }
+}
+  Need more memory than my device has, give me what I had!  Full Review  {
+  "result": {
+    "confidence": "69.0534", 
+    "sentiment": "Negative"
+  }
+}
+ Love it I do all my banking from my phone. If you could just have cash come out, it would be even better.  Full Review  {
+  "result": {
+    "confidence": "82.3050", 
+    "sentiment": "Negative"
+  }
+}
+ Love The features have been on spot for me.  Full Review  {
+  "result": {
+    "confidence": "77.2235", 
+    "sentiment": "Positive"
+  }
+}
+ Doing a lot better Anyway to be able to order debit, credit cards, and checks through the app?  Full Review  {
+  "result": {
+    "confidence": "68.8319", 
+    "sentiment": "Positive"
+  }
+}
+ Best bank Sometimes employees mess up but they always make it right.  Full Review  {
+  "result": {
+    "confidence": "77.1690", 
+    "sentiment": "Negative"
+  }
+}
+ Does the job. 5 stars when my Nexus 6P gets fingerprint support.  Full Review  {
+  "result": {
+    "confidence": "67.0312", 
+    "sentiment": "Positive"
+  }
+}
+ Great app... but I love your app but it would be so much better if it were possible to pay bills in e bills all at once instead of one at a time?  Full Review  {
+  "result": {
+    "confidence": "62.7526", 
+    "sentiment": "Negative"
+  }
+}
+ Update doesn't download Too many updates  Full Review  {
+  "result": {
+    "confidence": "56.6526", 
+    "sentiment": "Neutral"
+  }
+}
+  BANK OF AMERICA ARE THIEVES!!!!!! THEY CHARGED ME OVER 485 DOLLARS IN FEES IN 2 WEEKS WHILE I WAS IN THE HOSPITAL. I CALLED TO GET SOME HELP AND THEY REFUSED TO HELP AT ALL. AVOID THEM LIKE THE PLAGUE  Full Review  {
+  "result": {
+    "confidence": "99.9462", 
+    "sentiment": "Negative"
+  }
+}
+ SO EASY FAST AND EASY BANKING RIGHT AT YOUR FINGERTIPS!!  Full Review  {
+  "result": {
+    "confidence": "65.1659", 
+    "sentiment": "Negative"
+  }
+}
+ won't open it's not opening with fingerprint or password lately.  Full Review  {
+  "result": {
+    "confidence": "59.1998", 
+    "sentiment": "Neutral"
+  }
+}
+  Can't pay my credit card bill on the app.  Full Review  {
+  "result": {
+    "confidence": "74.0424", 
+    "sentiment": "Negative"
+  }
+}
+ Fingerprint sign in Please add fingerprint sign in on Nexus 6p  Full Review  {
+  "result": {
+    "confidence": "70.6326", 
+    "sentiment": "Negative"
+  }
+}
+  It won't load any time after the update  Full Review  {
+  "result": {
+    "confidence": "53.8084", 
+    "sentiment": "Neutral"
+  }
+}
+ Uhhhh... Let's me do my stuff. .. :/  Full Review  {
+  "result": {
+    "confidence": "81.5792", 
+    "sentiment": "Negative"
+  }
+}
+ Improved It greatly improved in the last couple of years. Stable. Fast. Reliable.  Full Review  {
+  "result": {
+    "confidence": "80.2283", 
+    "sentiment": "Positive"
+  }
+}
+ Bank of America web site On line banking  Full Review  {
+  "result": {
+    "confidence": "66.1191", 
+    "sentiment": "Positive"
+  }
+}
+ It's alright. It's mobile banking. What else can I say.  Full Review  {
+  "result": {
+    "confidence": "93.4454", 
+    "sentiment": "Negative"
+  }
+}
+ Very User Friendly I have found that changing pass words, adding new accounts, editing existing accounts along with several other changes have made it easier for myself.  THANKS!  Full Review  {
+  "result": {
+    "confidence": "52.8977", 
+    "sentiment": "Neutral"
+  }
+}
+  Can't open using fingerprint scanner...nexus 6p  Full Review  {
+  "result": {
+    "confidence": "65.7477", 
+    "sentiment": "Negative"
+  }
+}
+ BofA has the best folks in Banking Business BA customer since 2008 its a good bank to do business with  Full Review  {
+  "result": {
+    "confidence": "99.6095", 
+    "sentiment": "Positive"
+  }
+}
+ I am revising an earlier review I left a 1 star comment earlier when I had random inability to log in at all. I since have a new phone (Nexus 5x) & the error isn't happening, I can log in typing my pw, but why I still keep it no better than 3 is because now I no longer have the fingerprint option.  Full Review  {
+  "result": {
+    "confidence": "100.0000", 
+    "sentiment": "Negative"
+  }
+}
+ Great Best app in my phone, so convenient  Full Review  {
+  "result": {
+    "confidence": "76.2030", 
+    "sentiment": "Positive"
+  }
+}
+  I hate bank of america mobile web.i think iam going to close my credit card ,because  i try sign in and it keep saying try this try that make me realy mad.  Full Review  {
+  "result": {
+    "confidence": "96.9632", 
+    "sentiment": "Negative"
+  }
+}
+ Quick, Easy & Dependable App Works great on cell phone, Tablet & pc. Can take care of my banking anywhere, anytime of day or night. I Recommend this app to everyone who has a BOA Acct.  Full Review  {
+  "result": {
+    "confidence": "99.8050", 
+    "sentiment": "Positive"
+  }
+}
+ Deposit crashes app Tried reinstalling a few times but deposit crashes the app after taking pics of checks. UPDATE: I think they fixed the bug it works now.  Full Review  {
+  "result": {
+    "confidence": "56.2135", 
+    "sentiment": "Neutral"
+  }
+}
+ Hate it Wait waiting waiting.  Cannot often get to sign in screen.  Full Review  {
+  "result": {
+    "confidence": "86.4582", 
+    "sentiment": "Negative"
+  }
+}
+  I use this app multiple times a day. I love it. It makes my life so much easier!  Full Review  {
+  "result": {
+    "confidence": "94.5527", 
+    "sentiment": "Positive"
+  }
+}
+ Calculator Can you add calculator option to this app?  Full Review  {
+  "result": {
+    "confidence": "59.5430", 
+    "sentiment": "Neutral"
+  }
+}
+ Cc statements Can't see pdf if my bank statement  Full Review  {
+  "result": {
+    "confidence": "59.5386", 
+    "sentiment": "Neutral"
+  }
+}
+ Fast east Managing! It's fast and accurate! BALANCE AND TRANSACTIONS are always a must know  log on!!  Full Review  {
+  "result": {
+    "confidence": "99.0354", 
+    "sentiment": "Positive"
+  }
+}
+ Does exactly what you need Had no issues with app. Easy balance transfers, payments, and check deposit functionality via camera.  Full Review  {
+  "result": {
+    "confidence": "51.0969", 
+    "sentiment": "Neutral"
+  }
+}
+ Not working Won't let me login  Full Review  {
+  "result": {
+    "confidence": "62.3598", 
+    "sentiment": "Positive"
+  }
+}
+  It works very well, even when my computer is down.   Full Review  {
+  "result": {
+    "confidence": "93.3096", 
+    "sentiment": "Positive"
+  }
+}
+  This is really  great, thanks do much  Full Review  {
+  "result": {
+    "confidence": "97.9415", 
+    "sentiment": "Positive"
+  }
+}
+ Nexus 6P support We need Nexus 6P/5X fingerprints support.  Full Review  {
+  "result": {
+    "confidence": "57.9639", 
+    "sentiment": "Neutral"
+  }
+}
+ Love it Makes depositing checks a breeze!  Full Review  {
+  "result": {
+    "confidence": "96.7927", 
+    "sentiment": "Positive"
+  }
+}
+ I can transfer to other bank of america Accounts with only the email. So effortless and instant. Not to mention the improved check cashing is easy as p.z.  Full Review  {
+  "result": {
+    "confidence": "91.6004", 
+    "sentiment": "Negative"
+  }
+}
+  It hardly  ever  works for me. It used to but now it doesn't.  Full Review  {
+  "result": {
+    "confidence": "52.0929", 
+    "sentiment": "Neutral"
+  }
+}
+ Im so happy for this app. The best bank app. Love it  Full Review  {
+  "result": {
+    "confidence": "94.7587", 
+    "sentiment": "Positive"
+  }
+}
+ Nexus 6P Why are only Samsung devices supported for the fingerprint reader. Get Nexus devices supported.  Full Review  {
+  "result": {
+    "confidence": "80.8333", 
+    "sentiment": "Negative"
+  }
+}
+ Just one more thing When are you going to add support for the fingerprint scanner for non Samsung devices  Full Review  {
+  "result": {
+    "confidence": "72.8936", 
+    "sentiment": "Negative"
+  }
+}
+ Awesome app Mobile check deposit works great. Less reason for me to go to bank and see a teller. What about adding fingerprint signing in?  Full Review  {
+  "result": {
+    "confidence": "86.7119", 
+    "sentiment": "Positive"
+  }
+}
+ Why Why can't pay your mortgage bill on this app??  Full Review  {
+  "result": {
+    "confidence": "99.2986", 
+    "sentiment": "Negative"
+  }
+}
+ Lack of Nexus fingerprint reader Still no support for 5x or 6p fingerprint reader.  Full Review  {
+  "result": {
+    "confidence": "91.8103", 
+    "sentiment": "Negative"
+  }
+}
+  Let's get some Nexus Imprint support!  Full Review  {
+  "result": {
+    "confidence": "75.0280", 
+    "sentiment": "Negative"
+  }
+}
+ Add Finger Print Detection Add Finger Print detection for non Samsung phones  Full Review  {
+  "result": {
+    "confidence": "51.1146", 
+    "sentiment": "Neutral"
+  }
+}
+{
+  "result": {
+    "confidence": "50.0000", 
+    "sentiment": "Neutral"
+  }
+}
